@@ -1,4 +1,4 @@
-# DeepShield: AI-Powered Deepfake Detection Tool
+# Veridion: AI-Powered Deepfake Detection Tool
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -191,12 +191,12 @@ This typically happens when the data generator is not producing the expected dat
 
 ## Authors
 
-- **Swayam Prakash Panda** ([@swayam200](https://github.com/swayam200)).
-- **Madhuram Patil** ([@Madhuram2901](https://github.com/Madhuram2901)).
-- **Abhinav Nath** ([@abhinavnath02](https://github.com/abhinavnath02)).
-- **Advik Banerjee** ([@AdiJee2195](https://github.com/AdiJee2195)).
-- **Tanish Gupta** ([@tanisshgupta](https://github.com/tanisshgupta)).
-See also the list of [contributors](https://github.com/Swayam200/Deep-Fake-Analysis-Tool/graphs/contributors) who participated in this project.
+- **AYUSH YADAV**
+- **OM KUMAR SINGH**
+- **MOHD. FARZAN KHAN**
+- **PUNEET**
+- **Tanish Gupta**
+See also the list who participated in this project.
 
 ---
 
